@@ -1,4 +1,4 @@
-## General Assembly Project 1: Building "Pokemon Stay"
+## Python Coding Project: Building "Pokemon Stay"
 
 
 ### Note (25-Aug-18): 
